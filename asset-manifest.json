@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/movie-tv-app/static/css/main.191a40e2.chunk.css",
-    "main.js": "/movie-tv-app/static/js/main.62c91e3f.chunk.js",
-    "main.js.map": "/movie-tv-app/static/js/main.62c91e3f.chunk.js.map",
-    "runtime-main.js": "/movie-tv-app/static/js/runtime-main.9866a47c.js",
-    "runtime-main.js.map": "/movie-tv-app/static/js/runtime-main.9866a47c.js.map",
+    "main.js": "/movie-tv-app/static/js/main.2aa91833.chunk.js",
+    "main.js.map": "/movie-tv-app/static/js/main.2aa91833.chunk.js.map",
+    "runtime-main.js": "/movie-tv-app/static/js/runtime-main.8b1c572e.js",
+    "runtime-main.js.map": "/movie-tv-app/static/js/runtime-main.8b1c572e.js.map",
     "static/css/2.af3ab7ac.chunk.css": "/movie-tv-app/static/css/2.af3ab7ac.chunk.css",
-    "static/js/2.210a90c6.chunk.js": "/movie-tv-app/static/js/2.210a90c6.chunk.js",
-    "static/js/2.210a90c6.chunk.js.map": "/movie-tv-app/static/js/2.210a90c6.chunk.js.map",
+    "static/js/2.824ae0b7.chunk.js": "/movie-tv-app/static/js/2.824ae0b7.chunk.js",
+    "static/js/2.824ae0b7.chunk.js.map": "/movie-tv-app/static/js/2.824ae0b7.chunk.js.map",
     "index.html": "/movie-tv-app/index.html",
     "static/css/2.af3ab7ac.chunk.css.map": "/movie-tv-app/static/css/2.af3ab7ac.chunk.css.map",
     "static/css/main.191a40e2.chunk.css.map": "/movie-tv-app/static/css/main.191a40e2.chunk.css.map",
-    "static/js/2.210a90c6.chunk.js.LICENSE.txt": "/movie-tv-app/static/js/2.210a90c6.chunk.js.LICENSE.txt"
+    "static/js/2.824ae0b7.chunk.js.LICENSE.txt": "/movie-tv-app/static/js/2.824ae0b7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9866a47c.js",
+    "static/js/runtime-main.8b1c572e.js",
     "static/css/2.af3ab7ac.chunk.css",
-    "static/js/2.210a90c6.chunk.js",
+    "static/js/2.824ae0b7.chunk.js",
     "static/css/main.191a40e2.chunk.css",
-    "static/js/main.62c91e3f.chunk.js"
+    "static/js/main.2aa91833.chunk.js"
   ]
 }
