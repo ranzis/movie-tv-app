@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/movie-tv-app/static/css/main.191a40e2.chunk.css",
+    "main.css": "/movie-tv-app/static/css/main.3133855d.chunk.css",
     "main.js": "/movie-tv-app/static/js/main.c7dacd4c.chunk.js",
     "main.js.map": "/movie-tv-app/static/js/main.c7dacd4c.chunk.js.map",
     "runtime-main.js": "/movie-tv-app/static/js/runtime-main.8b1c572e.js",
@@ -10,14 +10,14 @@
     "static/js/2.824ae0b7.chunk.js.map": "/movie-tv-app/static/js/2.824ae0b7.chunk.js.map",
     "index.html": "/movie-tv-app/index.html",
     "static/css/2.af3ab7ac.chunk.css.map": "/movie-tv-app/static/css/2.af3ab7ac.chunk.css.map",
-    "static/css/main.191a40e2.chunk.css.map": "/movie-tv-app/static/css/main.191a40e2.chunk.css.map",
+    "static/css/main.3133855d.chunk.css.map": "/movie-tv-app/static/css/main.3133855d.chunk.css.map",
     "static/js/2.824ae0b7.chunk.js.LICENSE.txt": "/movie-tv-app/static/js/2.824ae0b7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8b1c572e.js",
     "static/css/2.af3ab7ac.chunk.css",
     "static/js/2.824ae0b7.chunk.js",
-    "static/css/main.191a40e2.chunk.css",
+    "static/css/main.3133855d.chunk.css",
     "static/js/main.c7dacd4c.chunk.js"
   ]
 }
